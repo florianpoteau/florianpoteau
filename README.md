@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
+
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
