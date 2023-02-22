@@ -26,7 +26,7 @@ My name is Florian Poteau, i am 21 years old and I will share my project here. I
 ![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/windows.png)
 ![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/tomcat.png)
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?florianpoteau=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/apiflorianpoteauanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
