@@ -2,7 +2,7 @@
 
 My name is Florian Poteau and I will share my project here. In professional retraining, I am looking for an internship or job in a web development.
 
-Languages and tools:
+## Languages and tools:
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/html5.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/CSS3.png)
