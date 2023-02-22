@@ -4,7 +4,7 @@ My name is Florian Poteau and I will share my project here. In professional retr
 
 languages and tools:
 
-![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png) ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/html5.png)
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png) ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/html5.png) ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/CSS3.png)
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
