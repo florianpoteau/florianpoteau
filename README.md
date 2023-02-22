@@ -26,9 +26,9 @@ My name is Florian Poteau, i am 21 years old and I will share my project here. I
 ![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/windows.png)
 ![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/tomcat.png)
 
-## Mes stats:
+## My stats:
 
-[![Les Stats GitHub de Florian Poteau](https://github-readme-stats.vercel.app/api?username=florianpoteau&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Les Stats GitHub de Florian Poteau](https://github-readme-stats.vercel.app/api?username=florianpoteau&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpoteau)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
