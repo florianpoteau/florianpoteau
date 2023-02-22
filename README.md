@@ -2,7 +2,7 @@
 
 My name is Florian Poteau and I will share my project here. In professional retraining, I am looking for an internship or job in a web development.
 
-languages and tools:
+Languages and tools:
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/html5.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/CSS3.png)
@@ -22,6 +22,7 @@ languages and tools:
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/figma.png)
 ![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/windows.png)
+![Cover](https://github.com/florianpoteau/florianPoteau/blob/main/img/tomcat.png)
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
