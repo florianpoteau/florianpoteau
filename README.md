@@ -16,7 +16,6 @@ languages and tools:
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/figma.png)
-![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/strapi.png)
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
