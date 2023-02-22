@@ -8,11 +8,13 @@ languages and tools:
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/CSS3.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/javascript.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/java.png)
-![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
+
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/nodeJS.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/springboot.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/hibernate.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/mavenLogo.png)
+
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
