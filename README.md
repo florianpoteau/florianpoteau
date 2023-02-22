@@ -15,6 +15,7 @@ languages and tools:
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/mavenLogo.png)
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/strapi.png)
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/postgres.png)
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/github.png)
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/figma.png)
