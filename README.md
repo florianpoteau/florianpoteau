@@ -1,12 +1,12 @@
 # Hi there 👋
 
-<br>
-
 ## About me
 
 <br>
 
 My name is Florian Poteau, i am 21 years old and I will share my projects here. In professional retraining, I am looking for an internship or job in the web development.
+
+<br>
 
 ## Languages and tools:
 
