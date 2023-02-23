@@ -29,14 +29,13 @@ My name is Florian Poteau, i am 21 years old and I will share my projects here. 
 ## My stats:
 
 ![Les Stats GitHub de Florian Poteau](https://github-readme-stats.vercel.app/api?username=florianpoteau&show_icons=true&theme=github_dark)
-
-[right]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpoteau)[/right]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpoteau)
 
 ## Social networks
 
 <div align="center">
 
-<img src = "/img/linkedin.png" alt="img">
+<img src = "/img/linkedins.png" alt="img">
 
 :point_right:<a href= "https://www.linkedin.com/in/florian-poteau-63a9a71a1/">My linkedin</a> :point_up:
 
