@@ -35,7 +35,7 @@ My name is Florian Poteau, i am 21 years old and I will share my projects here. 
 
 <div align="center">
 
-<img src = "/image/linkedin.png" alt="img">
+<img src = "/img/linkedin.png" alt="img">
 
 <a href= "https://www.linkedin.com/in/florian-poteau-63a9a71a1/">My linkedin</a>
 
