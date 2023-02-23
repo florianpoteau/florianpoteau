@@ -33,7 +33,9 @@ My name is Florian Poteau, i am 21 years old and I will share my projects here. 
 
 ## Social networks
 
-[center]texte[/center]
+<div align="center">Texte ou image</div>
+
+[center]Texte[/center]
 
 <!--
 **florianpoteau/florianpoteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
