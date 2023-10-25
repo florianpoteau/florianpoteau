@@ -17,7 +17,7 @@ My name is Florian Poteau, i am 21 years old and I will share my projects here. 
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/nodeJS.png)&nbsp;&nbsp;&nbsp;
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/springboot.png)&nbsp;&nbsp;&nbsp;
-![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/hibernate.png)&nbsp;&nbsp;&nbsp;
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/phplogo.png)&nbsp;&nbsp;&nbsp;
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/mavenLogo.png)
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/strapi.png)&nbsp;&nbsp;&nbsp;
