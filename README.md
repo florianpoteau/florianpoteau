@@ -41,7 +41,7 @@ My name is Florian Poteau, i am 22 years old and I will share my projects here. 
 
 ## Mon portfolio
 
-Veuillez cliquer ici pour voir [mon portfolio](https://cvflorianpoteau.netlify.app/), celui-ci contient mon cv, quelques projets que j'ai effectués, ainsi que mes expériences et mes compétences.
+Veuillez cliquer ici pour voir le site web [mon portfolio](https://cvflorianpoteau.netlify.app/), celui-ci contient mon cv, quelques projets que j'ai effectués, ainsi que mes expériences et mes compétences.
 
 <br>
 
