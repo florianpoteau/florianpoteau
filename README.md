@@ -22,7 +22,7 @@ My name is Florian Poteau, i am 22 years old and I will share my projects here. 
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/strapi.png)&nbsp;&nbsp;&nbsp;
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/postgres.png)&nbsp;&nbsp;&nbsp;
-![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/json.png)&nbsp;&nbsp;&nbsp;
+![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/firebase.png)&nbsp;&nbsp;&nbsp;
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/dart.png)
 
 ![Cover](https://github.com/florianpoteau/florianpoteau/blob/main/img/reactlogo.png)&nbsp;&nbsp;&nbsp;
