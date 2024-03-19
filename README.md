@@ -43,11 +43,7 @@ My name is Florian Poteau, i am 22 years old and I will share my projects here. 
 &nbsp;&nbsp;![Les Stats GitHub de Florian Poteau](https://github-readme-stats-sigma-five.vercel.app/api?username=florianpoteau&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florianpoteau)
 
-<br>
-
-## My portfolio
-
-Please click here to view my portfolio website [mon portfolio](https://cvflorianpoteau.netlify.app/), this contains my CV, some projects I have done, as well as my experiences and skills.
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## Social networks
