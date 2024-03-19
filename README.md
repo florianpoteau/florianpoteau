@@ -40,10 +40,10 @@ My name is Florian Poteau, i am 22 years old and I will share my projects here. 
 
 <br>
 
-&nbsp;&nbsp;![Les Stats GitHub de Florian Poteau](https://github-readme-stats-sigma-five.vercel.app/api?username=florianpoteau&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florianpoteau)
+&nbsp;&nbsp;![Les Stats GitHub de Florian Poteau](https://github-readme-stats-sigma-five.vercel.app/api?username=florianpoteau&show_icons=true&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florianpoteau&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=florianpoteau)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=florianpoteau&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## Social networks
